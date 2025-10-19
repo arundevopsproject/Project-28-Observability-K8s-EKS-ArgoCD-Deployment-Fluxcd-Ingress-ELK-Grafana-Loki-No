@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>🚀 Kubernetes Complete Hands‑On Guides 🌟 </h1>
+  <h1> Kubernetes Complete Hands‑On Guides - K8s-EKS-ArgoCD-Blue-Green-Canary-Rollingupdate-Fluxcd-Ingress-Dockerfile-ELK-Grafana-Loki-Prometheus-Script-Vault-Velero </h1>
   <a href="https://github.com/anveshmuppeda/kubernetes"><img src="https://readme-typing-svg.demolab.com?font=italic&weight=700&size=18&duration=4000&pause=1000&color=F727A9&center=true&width=600&lines=Learn+Kubernetes+with+hands-on+guides+and+practical+examples." alt="Typing SVG" /> </a>  
   <br>
   <img src="https://img.shields.io/github/forks/anveshmuppeda/kubernetes" alt="Forks"/>
